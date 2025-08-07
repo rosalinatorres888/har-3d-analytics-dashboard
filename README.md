@@ -92,7 +92,7 @@ This project applies key course concepts:
 *Data Analytics Engineering Student | Storytelling Through Data*
 
 [![Email](https://img.shields.io/badge/Email-torres.ros@northeastern.edu-red?style=for-the-badge&logo=gmail)](mailto:torres.ros@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rosalinatorres)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rosalina2)
 
 **🎯 Seeking Data Analytics and Business Intelligence opportunities**
 
